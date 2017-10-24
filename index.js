@@ -21,5 +21,9 @@ function sayHiToGrandma(string){
 
 string.toUpperCase()=== string
 return string
+}
 
+function sayHiToGrandma(string)
+{
+  return string
 }
