@@ -16,8 +16,7 @@ function sayHiToGrandma(string){
 
 string.toLowerCase()=== string
 return string
-
-
+}
 function sayHiToGrandma(string){
 
 string.toUpperCase()=== string
