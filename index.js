@@ -14,8 +14,5 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
 var lowercase = 'hello'
-if {
-lowercase.toLowerCase()=== lowercase
-return string;
-}
+
 }
